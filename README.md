@@ -3,10 +3,10 @@ This is a simple "Hello, World" Node.js application Dockerized for easy deployme
 Before getting started, make sure to download and install Docker (www.docker.com)
 
 Clone the Repository:
-
-'git clone https://github.com/DavidThomas-coder/docker.git
+'''
+git clone https://github.com/DavidThomas-coder/docker.git
 cd docker'
-
+'''
 
 Build the Docker Image:
 '''
